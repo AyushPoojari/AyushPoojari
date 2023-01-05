@@ -2,7 +2,7 @@
 <h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
-<p><i> I'm Ayush Poojari a 3rd year Computer Science Undergraduate from K.C College of Engineering. I'm a Tech Enthusiast,Data Analyst , Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
+<p><i> I'm Ayush Poojari a 4th year Computer Science Undergraduate from K.C College of Engineering. I'm a Tech Enthusiast , Data Scientist , Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Science</code>, <code>Full Stack Web Development</code></li>
 <li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>C++</code></li>

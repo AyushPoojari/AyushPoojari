@@ -4,7 +4,7 @@
 
 <p><i> I'm Ayush Poojari a 4th year Computer Science Undergraduate from K.C College of Engineering. I'm a Tech Enthusiast , Data Scientist , Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 <ul>
-<li> 🌱 <b>I’m currently learning</b> : <code>Data Science</code>, <code>Full Stack Data Science at Ineuron</code></li>
+<li> 🌱 <b>I’m currently learning</b> : <code>Full Stack Data Science at Ineuron</code></li>
 <li> 💬 <b>Ask me about</b> : <code>AI</code>, <code>Machine Learning</code>, <code>DSA</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/ayush-poojari-84610221a/">LinkedIn</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>Him</code></li>

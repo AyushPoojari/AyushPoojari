@@ -15,11 +15,3 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-ayushp.b11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aayushimittal088@gmail.com)](mailto:ayushp.b11@gmail.com)
 
-<center>
-<h2 align="center">Git Hub Stats</h2>
-  
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushPoojari&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPoojari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
